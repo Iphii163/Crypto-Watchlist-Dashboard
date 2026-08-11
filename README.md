@@ -55,4 +55,4 @@ crypto-dashboard/
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo]([YOUR_DEPLOYED_URL_HERE](https://crypto-watchlist-dashboard-rho.vercel.app))**
+🔗 **[View Live Demo]([https://crypto-watchlist-dashboard-rho.vercel.app])**
