@@ -5,7 +5,7 @@ import "./App.css";
 import Dashboard from "./components/Dashboard";
 import WalletStatus from "./components/WalletStatus";
 import AssetList from "./components/AssetList";
-import Watchlist from "./components/Watchlist";
+import Watchlist from "./components/WatchList";
 
 function App() {
   const [assets, setAssets] = useState([]);
